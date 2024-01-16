@@ -8,3 +8,7 @@ Meu nome é Luis Claudio, sou aluno do DevClub, e em breve, serei um progamador 
 E inciando em:
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="logo-java" width=70px />
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" width=70px />
+<br>
+Me sigam no Instagram <a href="https://www.instagram.com/junniorluca_">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
